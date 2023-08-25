@@ -1,6 +1,5 @@
 # Abduction: An Interactive Simulation Game
 
-![Abduction Game Logo](/images/abduction_logo.png)
 
 ## Overview
 Welcome to Abduction, an interactive simulation game where your choices determine your fate. This game takes you on a thrilling adventure as you encounter aliens and make critical decisions to avoid being abducted. Your mission is to outsmart the aliens and survive!
