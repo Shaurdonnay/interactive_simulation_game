@@ -23,7 +23,7 @@ Abduction is a text-based interactive simulation game developed as part of a C++
 - Standard C++ Library
 
 ### Installation
-1. Clone this repository to your local machine using `git clone https://github.com/yourusername/abduction-game.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/shaurdonnay/abduction-game.git`.
 2. Compile the game code using your C++ compiler: `g++ interactive_simulation_game.cpp -o abduction`.
 3. Run the compiled executable: `./abduction`.
 
